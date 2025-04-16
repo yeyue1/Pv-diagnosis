@@ -108,21 +108,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Citation
-
-If you use this code or find our work helpful in your research, please consider citing the paper:
-
-```bibtex
-@article{your_article_key,
-  author    = {Author 1 and Author 2 and Your Name},
-  title     = {Augmenting Few-Shot Fault Diagnosis in Photovoltaic Arrays Using Generative Models},
-  journal   = {Journal/Conference Name},
-  year      = {Publication Year},
-  volume    = {Volume Number (if applicable)},
-  pages     = {Page Numbers (if applicable)},
-  doi       = {DOI (if available)}
-}
-```
-*(Replace placeholders with actual publication details)*
-
 
