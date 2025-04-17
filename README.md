@@ -1,6 +1,6 @@
-# Augmenting Few-Shot Fault Diagnosis in Photovoltaic Arrays Using Generative Models
+# Augmenting Few-Shot Fault Diagnosis in Photovoltaic Arrays Using Siamese-Enhanced Generative Adversarial Network
 
-This repository contains the source code and related materials for the research paper titled "Augmenting Few-Shot Fault Diagnosis in Photovoltaic Arrays Using Generative Models".
+This repository contains the source code and related materials for the research paper titled "Augmenting Few-Shot Fault Diagnosis in Photovoltaic Arrays Using Siamese-Enhanced Generative Adversarial Network".
 
 ## Description
 
