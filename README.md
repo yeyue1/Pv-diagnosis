@@ -84,12 +84,6 @@ Please ensure your code adheres to the project's coding standards and includes r
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details (assuming you will add a LICENSE file).
-<!-- Or directly state: -->
-This project is licensed under the MIT License.
-
-Copyright (c) [Year] [Your Name or Organization]
-
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
